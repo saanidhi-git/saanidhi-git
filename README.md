@@ -1,16 +1,44 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**saanidhi-git/saanidhi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Saanidhi 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 2nd Year BTech Student in Artificial Intelligence and Data Science.  
+📍 India  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👩‍💻 About Me
+
+- 👩‍🎓 Pursuing BTech in Artificial Intelligence & Data Science 
+- 💻 Currently focused on:
+  - Frontend Web Development 
+  - Daily DSA leetcode
+  - Starting Data Science & Machine Learning
+- ⚡ Exploring open-source and building beginner-friendly projects
+- 📚 CGPA: 9.59 (Sem 1), 9.45 (Sem 2)
+
+
+ 🚀 Projects
+
+| Project | Tech Stack | Description |
+| SmartLib Library System | HTML, CSS, JS | Frontend dashboard for a library management system  |
+
+
+
+ 📌 Current Goals
+
+- Improve GitHub profile with real projects  
+- More contributions to open source 
+
+
+
+ 📫 Let's Connect
+
+- LinkedIn:  
+- GitHub: [saanidhi-git](https://github.com/saanidhi-git)
+
+
+
+Thanks for visiting my profile! Feel free to check out my projects and connect.
+
