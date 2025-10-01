@@ -15,14 +15,14 @@
   - Frontend Web Development 
   - Daily DSA leetcode
   - Starting Data Science & Machine Learning
-- ⚡ Exploring open-source and building beginner-friendly projects
+- ⚡ Exploring open-source and building  projects
 - 📚 CGPA: 9.59 (Sem 1), 9.45 (Sem 2)
 
 
  🚀 Projects
 
 | Project | Tech Stack | Description |
-| SmartLib Library System | HTML, CSS, JS | Frontend dashboard for a library management system  |
+|CareYatra-Digital Health Record Management System| SmartLib Library System | HTML, CSS, JS,Python,FAST API AND REST,Data Science-Numpys,Pandas | Frontend dashboard for a library management system  |
 
 
 
