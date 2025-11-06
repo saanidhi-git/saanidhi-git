@@ -1,4 +1,3 @@
- Hi there 👋
 
 <h1 align="center">Hi, I'm Saanidhi 👋</h1>
 
@@ -35,7 +34,8 @@
 
  📫 Let's Connect
 
-- LinkedIn:  
+- LinkedIn:www.linkedin.com/in/saanidhi-gade
+
 - GitHub: [saanidhi-git](https://github.com/saanidhi-git)
 
 
