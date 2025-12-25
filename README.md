@@ -61,7 +61,7 @@ Git | GitHub | Postman | VS Code
 
 - 💼 **LinkedIn:** [linkedin.com/in/saanidhi-gade](https://www.linkedin.com/in/saanidhi-gade)
 - 💻 **GitHub:** [github.com/saanidhi-git](https://github.com/saanidhi-git)
-- 📧 **Email:** gadesaanidhi@gmail.com
+
 
 
 ⭐ *Thanks for visiting my GitHub profile. Feel free to explore my projects or connect with me!*
