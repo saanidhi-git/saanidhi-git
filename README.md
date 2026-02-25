@@ -24,13 +24,7 @@ I am a second-year B.Tech student in **Artificial Intelligence and Data Science*
 
 **Tools & DevOps:** Git | GitHub | Docker | Postman 
 
-## 🚀 Key Projects
-
-- **SmartPrep Agent** – An automated ML pipeline for dataset profiling and rule-based preprocessing using LLM-based explanations.
-- **Sachet AI** – A RAG-based disaster response system with vector indexing (FAISS/ChromaDB) and sub-2s retrieval latency.
-- **MiraAI** – An IoT smart mirror integrating ESP32-CAM with multimodal transformer-based inference for real-time recommendations.
-- **EcoSentrix** – A geospatial platform for invasive species detection using supervised ML classification and offline LLM inference via Ollama.
-- **CareYatra** - 
+- 
 
 
 ## 📌 Current Focus
