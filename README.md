@@ -1,40 +1,72 @@
 <h1 align="center">Hi, I'm Saanidhi Gade 👋</h1>
 
 <p align="center">
-<strong>B.Tech Artificial Intelligence & Data Science Student </strong><br/>
-Aspiring AI/ML Engineer | LLM & Agentic Systems Enthusiast | MERN Developer<br/>
+B.E. Artificial Intelligence & Data Science <br/>
+AI & Data Engineer | Machine Learning | Frontend Developer <br/>
 📍 Pune, India
 </p>
 
+---
+
 ## 👩‍💻 About Me
 
-I am a second-year B.Tech student in **Artificial Intelligence and Data Science** . I specialize in building intelligent systems that bridge the gap between hardware and advanced AI, with a focus on **RAG frameworks, Computer Vision, and Agentic workflows**
+I build practical, end-to-end systems that combine data, machine learning, and clean user-facing applications.
 
+My interests span:
+- Data analysis and model building  
+- Machine learning system design  
+- LLM-powered applications  
+- Backend APIs and scalable services  
+- Frontend interfaces for intelligent systems  
 
-- 💡 **Interests** — Multi-modal Vision-Language models and AI-driven entrepreneurship.
+I enjoy working across the stack — from data preprocessing and model experimentation to deployment and UI integration.
 
+---
 
-## 🛠️ Technical Skills
+## 🛠 Tech Stack
 
-**Programming & Backend:** Python | C++ | C | JavaScript | FastAPI | Flask | Django 
+### 💻 Languages  
+Python | C++ | C | JavaScript | SQL  
 
-**AI, ML & Agentic Systems:** PyTorch | TensorFlow | LangChain | Hugging Face | RAG | Prompt Engineering | OpenCV 
+### 📊 Data Science & Machine Learning  
+NumPy | Pandas | Scikit-Learn | PyTorch | TensorFlow | OpenCV | NLTK  
+Exploratory Data Analysis | Feature Engineering | Model Evaluation  
 
-**Data Science & Frontend:** NumPy | Pandas | Scikit-Learn | React.js | HTML | CSS | Tailwind 
+### 🤖 AI & LLM Systems  
+LangChain | Hugging Face | RAG | Prompt Engineering  
 
-**Tools & DevOps:** Git | GitHub | Docker | Postman 
+### ⚙ Backend & Tools  
+FastAPI | Flask | Django  
+Docker | Git | Postman | Linux CLI  
 
-- 
+### 🎨 Frontend Development  
+React.js | HTML | CSS | Tailwind  
 
+---
 
-## 📌 Current Focus
+## 🤝 Open to Collaboration
 
-- **Agentic AI**: Developing autonomous agents using **LangGraph** for complex reasoning tasks.
-- **Production ML**: Deepening expertise in **Dockerized workflows** and reproducible evaluation systems.
+I’m open to:
+- Research roles 
+- Data Science and ML internships  
+- Frontend development roles  
+- Open-source contributions  
+- AI-driven product development  
 
-## 📫 Let’s Connect
+If you're building something impactful, I’d love to collaborate.
 
-- 💼 **LinkedIn:** [linkedin.com/in/saanidhi-gade](https://www.linkedin.com/in/saanidhi-gade) 
+---
 
+## 📂 What You’ll Find Here
 
+- Data-driven projects  
+- ML experiments and pipelines  
+- LLM-based applications  
+- Backend services  
+- Full-stack integrations  
 
+---
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/saanidhi-gade 
