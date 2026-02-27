@@ -25,21 +25,19 @@ I enjoy working across the stack — from data preprocessing and model experimen
 
 ## 🛠 Tech Stack
 
-### 💻 Languages  
+### 💻 Languages:--
 Python | C++ | C | JavaScript | SQL  
 
-### 📊 Data Science & Machine Learning  
-NumPy | Pandas | Scikit-Learn | PyTorch | TensorFlow | OpenCV | NLTK  
-Exploratory Data Analysis | Feature Engineering | Model Evaluation  
+### 📊 Data Science & Machine Learning:
+NumPy | Pandas | Scikit-Learn | PyTorch | TensorFlow | OpenCV | NLTK  Exploratory Data Analysis | Feature Engineering | Model Evaluation  
 
-### 🤖 AI & LLM Systems  
+### 🤖 AI & LLM Systems:
 LangChain | Hugging Face | RAG | Prompt Engineering  
 
-### ⚙ Backend & Tools  
-FastAPI | Flask | Django  
-Docker | Git | Postman | Linux CLI  
+### ⚙ Backend & Tools:
+FastAPI | Flask | Django | Docker | Git | Postman | Linux CLI  
 
-### 🎨 Frontend Development  
+### 🎨 Frontend Development:
 React.js | HTML | CSS | Tailwind  
 
 ---
