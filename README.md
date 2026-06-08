@@ -3,7 +3,7 @@
 
 <p align="center">
 B.E. Artificial Intelligence & Data Science <br/>
-AI & Data Engineer | Machine Learning | Frontend Developer <br/>
+AI/ML Researcher | Aspiring ML/Data Engineer | Applied AI Research <br/>
 📍 Pune, India
 </p>
 
@@ -11,37 +11,37 @@ AI & Data Engineer | Machine Learning | Frontend Developer <br/>
 
 ## 👩‍💻 About Me
 
-I build practical, end-to-end systems that combine data, machine learning, and clean user-facing applications.
+I build practical, end-to-end systems that combine data, machine learning, and AI applications.
 
 My interests span:
+- Applied AI Research
 - Data analysis and model building  
 - Machine learning system design  
 - LLM-powered applications  
 - Backend APIs and scalable services  
-- Frontend interfaces for intelligent systems  
+ 
 
-I enjoy working across the stack — from data preprocessing and model experimentation to deployment and UI integration.
+I enjoy working across the stack — from research to  data preprocessing and model experimentation to deployment and UI integration.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills & Core Competencies
 
-### 💻 Languages  
-Python | C++ | C | JavaScript | SQL  
+### 💻 Languages & Shells
+* **Core:** Python, C++, C, SQL, JavaScript
+* **Scripting & Environment:** Bash, Linux CLI, GNU Coreutils
 
-### 📊 Data Science & Machine Learning  
-NumPy | Pandas | Scikit-Learn | PyTorch | TensorFlow | OpenCV | NLTK  
-Exploratory Data Analysis | Feature Engineering | Model Evaluation  
+### 🧠 Machine Learning & AI Systems
+* **Core Frameworks:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn
+* **LLM Ecosystem:** Hugging Face (Transformers, Tokenizers), LangChain, RAG, Prompt Engineering
+* **Specialized Libraries:** OpenCV (Vision), NLTK (NLP), TransformerLens, SAELens
 
-### 🤖 AI & LLM Systems  
-LangChain | Hugging Face | RAG | Prompt Engineering  
+### ⚙️ Backend, Tools & Infrastructure
+* **Backend Frameworks:** FastAPI, Flask, Django
+* **Workflow & Tools:** Git, Docker, SSH, Postman, AI Coding Assistants
 
-### ⚙ Backend & Tools  
-FastAPI | Flask | Django  
-Docker | Git | Postman | Linux CLI  
-
-### 🎨 Frontend Development  
-React.js | HTML | CSS | Tailwind  
+### 🌐 Frontend Development (Secondary)
+* **Web Technologies:** React.js, HTML5, CSS3, Tailwind CSS
 
 ---
 
@@ -49,8 +49,7 @@ React.js | HTML | CSS | Tailwind
 
 I’m open to:
 - Research roles 
-- Data Science and ML internships  
-- Frontend development roles  
+- Data Science and ML internships   
 - Open-source contributions  
 - AI-driven product development  
 
@@ -59,7 +58,7 @@ If you're building something impactful, I’d love to collaborate.
 ---
 
 ## 📂 What You’ll Find Here
-
+- Research experiments
 - Data-driven projects  
 - ML experiments and pipelines  
 - LLM-based applications  
