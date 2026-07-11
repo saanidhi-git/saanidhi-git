@@ -3,7 +3,7 @@
 
 <p align="center">
 B.E. Artificial Intelligence & Data Science <br/>
-AI/ML Researcher | Aspiring ML/Data Engineer | Applied AI Research <br/>
+AI/ML Researcher | Aspiring AI/ML Engineer | Applied AI Research <br/>
 📍 Pune, India
 </p>
 
@@ -29,16 +29,15 @@ I enjoy working across the stack — from research to  data preprocessing and mo
 
 ### 💻 Languages & Shells
 * **Core:** Python, C++, C, SQL, JavaScript
-* **Scripting & Environment:** Bash, Linux CLI, GNU Coreutils
 
 ### 🧠 Machine Learning & AI Systems
 * **Core Frameworks:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn
-* **LLM Ecosystem:** Hugging Face (Transformers, Tokenizers), LangChain, RAG, Prompt Engineering
-* **Specialized Libraries:** OpenCV (Vision), NLTK (NLP), TransformerLens, SAELens
+* **LLM Ecosystem:** Hugging Face , LangChain, RAG, Prompt Engineering
+* **Specialized Libraries:** OpenCV (Computer Vision), NLTK (NLP), TransformerLens, SAELens
 
 ### ⚙️ Backend, Tools & Infrastructure
 * **Backend Frameworks:** FastAPI, Flask, Django
-* **Workflow & Tools:** Git, Docker, SSH, Postman, AI Coding Assistants
+* **Workflow & Tools:** Git,Streamlit
 
 ### 🌐 Frontend Development (Secondary)
 * **Web Technologies:** React.js, HTML5, CSS3, Tailwind CSS
