@@ -3,7 +3,7 @@
 
 <p align="center">
 B.E. Artificial Intelligence & Data Science <br/>
-AI/ML Researcher | Aspiring AI/ML Engineer | Applied AI Research <br/>
+AI/ML Researcher | Aspiring AI/ML Engineer <br/>
 📍 Pune, India
 </p>
 
@@ -14,14 +14,14 @@ AI/ML Researcher | Aspiring AI/ML Engineer | Applied AI Research <br/>
 I build practical, end-to-end systems that combine data, machine learning, and AI applications.
 
 My interests span:
-- Applied AI Research
+- AI Research
 - Data analysis and model building  
 - Machine learning system design  
 - LLM-powered applications  
 - Backend APIs and scalable services  
  
 
-I enjoy working across the stack — from research to  data preprocessing and model experimentation to deployment and UI integration.
+I enjoy working across the stack — from research to  data preprocessing and model experimentation to deployment.
 
 ---
 
@@ -58,10 +58,7 @@ If you're building something impactful, I’d love to collaborate.
 
 ## 📂 What You’ll Find Here
 - Research experiments
-- Data-driven projects  
-- ML experiments and pipelines  
 - LLM-based applications  
-- Backend services  
 - Full-stack integrations  
 
 ---
