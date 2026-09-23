@@ -3,7 +3,7 @@
 <p align="center">
 AI/ML Researcher & Engineer<br/>
 B.E. Artificial Intelligence & Data Science · Savitribai Phule Pune University<br/>
-Pune, India
+Pune, India 
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Pune, India
 
 ## About
 
-I work on **interpretability and evaluation of language models** understanding what happens inside them, and building tools that make model behaviour measurable. Most of what I build sits between research and engineering: probing internals, designing evaluations, and turning findings into something reproducible.
+I work on **interpretability and evaluation of language models** understanding what happens inside them, and and building tools that make model behaviour measurable. Most of what I build sits between research and engineering: probing internals, designing evaluations, and turning findings into something reproducible.
 
 I'm early in my research journey and still exploring. Interpretability is where I've spent the most time so far, but I'm actively reading and building across NLP, multimodal models, LLM systems, alignment and evaluations and my interests are still widening.
 
