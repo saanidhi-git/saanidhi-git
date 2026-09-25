@@ -50,7 +50,7 @@ Always happy to talk about any of it.
 |---|---|
 | **[EmotionScope](https://github.com/saanidhi-git/EmotionScope)** | Extracts, probes, and steers emotion and sycophancy vectors across residual streams in open-weight LLMs. |
 | **[InterpLab](https://github.com/saanidhi-git/InterpLab)** | Interactive workspace for logit-lens inspection, causal activation patching, and SAE probing. |
-| **[TAC-Procure](https://github.com/saanidhi-git/TAC-Procure)** | Agentic welfare benchmark measuring implicit choice tendencies under cost pressure, mapped to EU AI Act Article 55. |
+
 
 **Applied AI & GenAI**
 
